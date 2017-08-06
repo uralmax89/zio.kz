@@ -5,7 +5,7 @@
 //                        http://instantcms.ru/                               //
 //                   produced by InstantSoft, instantsoft.ru                  //
 //                        LICENSED BY GNU/GPL v2                              //
-//                                                                            //
+//                                 zio.kz                                     //
 /******************************************************************************/
 
     define('VALID_RUN', true);
