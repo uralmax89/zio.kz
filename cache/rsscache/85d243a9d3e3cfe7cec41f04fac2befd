@@ -1,0 +1,112 @@
+<?php return array (
+  'encoding' => 'windows-1251',
+  'title' => 'Новости :: InstantCMS Community',
+  'link' => 'http://www.instantcms.ru/novosti',
+  'image_title' => 'InstantCMS - система управления сайтом',
+  'image_url' => 'http://www.instantcms.ru/images/rss.png',
+  'image_link' => 'http://www.instantcms.ru',
+  'items' => 
+  array (
+    0 => 
+    array (
+      'title' => 'Обновление InstantCMS 2.8.0',
+      'link' => 'http://www.instantcms.ru/novosti/release280.html',
+      'description' => 'Новый функционал компонента "Группы" (сообщества), возможность связей типов контента с группами и профилями, вывод полей пользователей в списке, новый режим отладки, сквозная авторизация для поддоменов, RSS для комментариев и многое другое в очередной версии InstantCMS.',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release280.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release280.html',
+      'pubDate' => 'Wed, 26 Jul 2017 01:19:00 GMT',
+    ),
+    1 => 
+    array (
+      'title' => 'InstantCMS 2.7.2',
+      'link' => 'http://www.instantcms.ru/novosti/release272.html',
+      'description' => 'Очередная порция улучшений и исправлений. Управление доступом к любым страницам, виджеты с привязкой к устройствам и многое другое.',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release272.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release272.html',
+      'pubDate' => 'Mon, 03 Apr 2017 20:40:00 GMT',
+    ),
+    2 => 
+    array (
+      'title' => 'InstantCMS 2.7.1',
+      'link' => 'http://www.instantcms.ru/novosti/release271.html',
+      'description' => 'Исправление всех недочётов после релиза 2.7.0 и небольшие улучшения функционала.',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release271.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release271.html',
+      'pubDate' => 'Mon, 13 Feb 2017 12:12:00 GMT',
+    ),
+    3 => 
+    array (
+      'title' => 'InstantCMS 2.7.0',
+      'link' => 'http://www.instantcms.ru/novosti/release270.html',
+      'description' => 'Связи типов контента, улучшенная модерация, механизм "корзины", улучшение наборов и другие полезные изменения.',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release270.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release270.html',
+      'pubDate' => 'Mon, 06 Feb 2017 09:29:00 GMT',
+    ),
+    4 => 
+    array (
+      'title' => 'InstantCMS 2.6.1',
+      'link' => 'http://www.instantcms.ru/novosti/release261.html',
+      'description' => 'Исправление всех недочётов после релиза 2.6.0 и небольшие улучшения.',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release261.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release261.html',
+      'pubDate' => 'Mon, 05 Dec 2016 11:11:00 GMT',
+    ),
+    5 => 
+    array (
+      'title' => 'InstantCMS 2.6.0',
+      'link' => 'http://www.instantcms.ru/novosti/release260.html',
+      'description' => 'Новые комментарии, новые фотоальбомы, исправление всех известных ошибок и много другое в этом релизе.',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release260.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release260.html',
+      'pubDate' => 'Mon, 07 Nov 2016 22:46:00 GMT',
+    ),
+    6 => 
+    array (
+      'title' => 'InstantCMS 1.10.7',
+      'link' => 'http://www.instantcms.ru/novosti/release1107.html',
+      'description' => 'Долгожданное обновление первой ветки InstantCMS с очередной порцией улучшений, исправлений, да и просто подарок тем, кто с нами с самого начала или любит InstantCMS 1.X  :-)',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release1107.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release1107.html',
+      'pubDate' => 'Mon, 25 Jul 2016 23:17:00 GMT',
+    ),
+    7 => 
+    array (
+      'title' => 'Обновление InstantCMS 2.5.1',
+      'link' => 'http://www.instantcms.ru/novosti/release251.html',
+      'description' => 'Исправление ошибок и неточностей, найденных после релиза 2.5.0.',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release251.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release251.html',
+      'pubDate' => 'Mon, 18 Apr 2016 01:06:00 GMT',
+    ),
+    8 => 
+    array (
+      'title' => 'InstantCMS 2.5.0',
+      'link' => 'http://www.instantcms.ru/novosti/release250.html',
+      'description' => 'Очередная порция полезных улучшений и исправлений!',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release250.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release250.html',
+      'pubDate' => 'Fri, 08 Apr 2016 17:56:00 GMT',
+    ),
+    9 => 
+    array (
+      'title' => 'Новогодний, праздничный InstantCMS 2.4.0',
+      'link' => 'http://www.instantcms.ru/novosti/release240.html',
+      'description' => 'Огромное увеличение производительности на больших базах данных, множество исправлений неточностей и полезные улучшения!',
+      'category' => 'Новости',
+      'comments' => 'http://www.instantcms.ru/novosti/release240.html#c',
+      'guid' => 'http://www.instantcms.ru/novosti/release240.html',
+      'pubDate' => 'Tue, 29 Dec 2015 23:45:00 GMT',
+    ),
+  ),
+  'items_count' => 10,
+);
